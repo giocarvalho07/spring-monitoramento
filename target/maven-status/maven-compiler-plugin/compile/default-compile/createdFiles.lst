@@ -1,0 +1,8 @@
+com\cliente\domain\Client.class
+com\cliente\controller\ClientController.class
+com\cliente\exception\ClientResourceExceptionHandler.class
+com\cliente\repository\ClientRepository.class
+com\cliente\exception\StandardError.class
+com\cliente\service\ClientService.class
+com\cliente\ClienteApplication.class
+com\cliente\exception\ClientNotFoundException.class
